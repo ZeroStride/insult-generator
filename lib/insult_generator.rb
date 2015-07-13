@@ -6,7 +6,7 @@ class InsultGenerator
     column1_rand = data["column1"][rand(50)]
     column2_rand = data["column2"][rand(50)]
     column3_rand = data["column3"][rand(50)]
-    "Thou #{column1_rand} #{column2_rand} #{column3_rand} build!"
+    "Thou #{column1_rand} #{column2_rand} #{column3_rand}!"
   end
 end
 
