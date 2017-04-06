@@ -9,6 +9,3 @@ class InsultGenerator
     "Thou #{column1_rand} #{column2_rand} #{column3_rand}!"
   end
 end
-
-#Throw an insult when required.
-p InsultGenerator.random_insult
